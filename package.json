@@ -1,0 +1,11 @@
+{
+  "name": "A Node.JS Formula One Simulator",
+  "version": "1.0.0",
+  "main": "f1-app.js",
+  "scripts": {
+    "race": "node f1-app.js"
+  },
+  "author": "Yevhen Chernenko",
+  "license": "ISC",
+  "description": ""
+}
